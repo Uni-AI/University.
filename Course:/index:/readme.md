@@ -1,0 +1,8 @@
+- https://www.coursera.org/learn/introduction-to-embedded-machine-learning
+- https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning
+- https://www.coursera.org/projects/langchain-chat-with-your-data-project
+- https://www.coursera.org/specializations/ai-engineering
+- https://www.coursera.org/projects/understanding-and-applying-text-embeddings-project
+- https://www.coursera.org/projects/deep-learning-with-pytorch-siamese-network
+- https://www.coursera.org/specializations/mlops-machine-learning-duke
+- https://www.coursera.org/learn/quantitative-model-checking
