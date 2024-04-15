@@ -1,1 +1,1 @@
-https://www.coursera.org/search?query=generative%20ai&sortBy=NEW?utm_medium=coursera&utm_source=lohphero&utm_campaign=carousel2
+- https://www.coursera.org/learn/generative-ai-for-everyone
