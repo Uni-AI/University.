@@ -1,1 +1,12 @@
 - https://www.coursera.org/learn/generative-ai-for-everyone
+- https://www.coursera.org/specializations/generative-ai-for-everyone
+- https://www.coursera.org/learn/introduction-to-generative-ai
+- https://www.coursera.org/learn/generative-ai-with-llms
+- https://www.coursera.org/learn/generative-ai-introduction-and-applications
+- https://www.coursera.org/specializations/generative-ai-for-software-developers
+- https://www.coursera.org/specializations/generative-ai-for-data-scientists
+- https://www.coursera.org/learn/introduction-to-ai
+- https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone
+- https://www.coursera.org/learn/introduction-to-generative-ai-studio
+- https://www.coursera.org/specializations/generative-adversarial-networks-gans
+- https://www.coursera.org/learn/introduction-generative-ai
